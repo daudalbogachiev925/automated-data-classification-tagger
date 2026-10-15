@@ -1,0 +1,13 @@
+categories:
+  Finance:
+    - "invoice"
+    - "payment"
+    - "budget"
+  HR:
+    - "employee"
+    - "salary"
+    - "benefit"
+  Marketing:
+    - "campaign"
+    - "lead"
+    - "advertisement"
